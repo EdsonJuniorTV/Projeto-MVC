@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Desktop\\projetoInicial\\projetoInicial\\projetoInicial.csproj": {}
+    "C:\\Users\\Aluno\\Desktop\\Projeto-MVC\\projetoInicial\\projetoInicial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Desktop\\projetoInicial\\projetoInicial\\projetoInicial.csproj": {
+    "C:\\Users\\Aluno\\Desktop\\Projeto-MVC\\projetoInicial\\projetoInicial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\projetoInicial\\projetoInicial\\projetoInicial.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\Projeto-MVC\\projetoInicial\\projetoInicial.csproj",
         "projectName": "projetoInicial",
-        "projectPath": "C:\\Users\\Aluno\\Desktop\\projetoInicial\\projetoInicial\\projetoInicial.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Desktop\\Projeto-MVC\\projetoInicial\\projetoInicial.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Desktop\\projetoInicial\\projetoInicial\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Desktop\\Projeto-MVC\\projetoInicial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
